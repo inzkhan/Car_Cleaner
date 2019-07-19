@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Car Cleaner</string>
+    <string name="name_textView_text">Name:</string>
+    <string name="mobile_textView_text">Mobile#</string>
+    <string name="service_textView_text">Services:</string>
+    <string name="phone">03346626552</string>
+    <string name="phone2">03029889086</string>
+    <string name="select_service">Select a service</string>
+    <string name="rating_info">Do you like our App?Kindly Rate it.</string>
+    <string name="action_licenses">Open Source Licenses</string>
+    <string name="app_develop_txt">Developed By</string>
+    <string name="developer_name">Inzi Khan</string>
+    <string name="dev_text">Developer Page</string>
+    <string name="developer_email">inzkhan@gmail.com</string>
+    <string name="contact_us">Contact Us!</string>
+    <string name="select_one_service">Please Select at least one service.</string>
+    <string-array name="services_list">
+        <item>Polish : 150rs</item>
+        <item>Car Wash : 300rs</item>
+        <item>Car Service : 500rs</item>
+        <item>Car Interior Service : 1000rs</item>
+        <item>Oil Change : Price based on Car</item>
+        <item>Fuel Filling : On desired rupees</item>
+        <item>Filter Change : Price based on Car</item>
+        <item>Car General Service : Price based on Car</item>
+    </string-array>
+</resources>
