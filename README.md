@@ -1,4 +1,4 @@
-An application to avail car wash services at your door steps.
+An application to avail car wash services at your door steps. [![Build Status](https://travis-ci.org/inzkhan/Car_Cleaner.svg?branch=master)](https://travis-ci.org/inzkhan/Car_Cleaner)
 
 
                     ################################## ScreenShots ######################################
